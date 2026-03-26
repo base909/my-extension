@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "TikTok@live.com": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://base909.github.io/my-extension/tiktok-addon-v1.xpi"
+        }
+      ]
+    }
+  }
+}
